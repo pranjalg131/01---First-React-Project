@@ -16,5 +16,6 @@ module.exports = {
     'prettier/prettier': 'error',
     'react/prop-types': [0],
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
+    'jsx-a11y/label-has-associated-control': [0],
   },
 };
